@@ -27,6 +27,6 @@ No browser tabs, no distracting video — just the music.
 
 ### Clone & Build
 ```bash
-git clone https://github.com/your-username/youtube-mini-player.git
-cd youtube-mini-player
+git clone https://github.com/nhdinh/ytmusicrs.git
+cd ytmusicrs
 cargo build --release
