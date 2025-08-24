@@ -17,6 +17,20 @@ No browser tabs, no distracting video — just the music.
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/screenshot-tray.png" alt="Tray Player Screenshot" width="500"/>
+</p>
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Mini Player Demo" width="600"/>
+</p>
+
+*(Screenshots are placeholders — replace with actual images from your build!)*  
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -30,3 +44,45 @@ No browser tabs, no distracting video — just the music.
 git clone https://github.com/nhdinh/ytmusicrs.git
 cd ytmusicrs
 cargo build --release
+```
+
+The compiled binary will be in `target/release/`.
+
+### Run
+```bash
+./target/release/ytmusicrs
+```
+
+The player will appear in your **Windows tray**. Right-click for options, search, and playback controls.
+
+---
+
+## 🛠 Roadmap
+- [ ] Cross-platform support (Linux, macOS)  
+- [ ] Global hotkeys for playback  
+- [ ] Lyrics integration  
+- [ ] Theming (dark/light tray icons)  
+- [ ] Save favorite playlists  
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!  
+If you'd like to fix bugs, add features, or improve documentation:  
+
+1. Fork the repo  
+2. Create a new branch (`git checkout -b feature/amazing-feature`)  
+3. Commit your changes (`git commit -m 'Add amazing feature'`)  
+4. Push to the branch (`git push origin feature/amazing-feature`)  
+5. Open a Pull Request  
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ⚠️ Disclaimer
+This project is **not affiliated with or endorsed by YouTube or Google**.  
+It uses public YouTube streaming via `yt-dlp` for educational and personal use only.
