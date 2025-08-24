@@ -20,14 +20,8 @@ No browser tabs, no distracting video — just the music.
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/screenshot-tray.png" alt="Tray Player Screenshot" width="500"/>
+  <img src="assets/screenshot-tray.png" alt="YouTube music player" width="500"/>
 </p>
-
-<p align="center">
-  <img src="assets/demo.gif" alt="Mini Player Demo" width="600"/>
-</p>
-
-*(Screenshots are placeholders — replace with actual images from your build!)*  
 
 ---
 
